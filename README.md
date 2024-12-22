@@ -44,3 +44,11 @@ Login/Signup Page: Include forms for authentication (basic UI).
   Routing: Use React Router to handle navigation.
   
   Mock Data: Use JSON or hardcoded data for products initially.
+
+![front](https://github.com/user-attachments/assets/c225d471-8305-4286-87a6-d885ce990571)
+
+![image](https://github.com/user-attachments/assets/6e49e1d0-90d5-4ef2-b425-fde08c014ab5)
+
+
+
+
