@@ -1,4 +1,5 @@
-# Custom-E-commerce-Platform-with-MERN-Technology
+# Ecommerce-Website-using-MERN
+
 
 For the frontend of your e-commerce platform, I focus on creating a visually appealing and functional user interface using React (the "R" in MERN). Here's a suggested roadmap for your first week:
 
